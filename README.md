@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mohana Surya Vamsi</h1>
+<h1 align="center">Hi 👋, I'm Vamsi</h1>
 💫 About Me:
 <br>💬 Ask me about c/c++,python<br>🌱 I’m currently learning Machine Learning<br>📫 Reach out at ymohanasuryavamsi47@gmail.com.<br>🧠 I enjoy solving Machine Learning challenges, building intelligent models, and tackling problem-solving with data!<br>⚡ Fun fact I enjoy training machines to spot patterns and solve puzzles—just like teaching a computer to think! 🤖🧩
 <p align="left">
