@@ -22,6 +22,7 @@
 #  GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" height=50>:
 ![](https://github-readme-stats.vercel.app/api?username=YerupalleVamsi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YerupalleVamsi&theme=dark&hide_border=true)<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YerupalleVamsi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages"/>
 
 
