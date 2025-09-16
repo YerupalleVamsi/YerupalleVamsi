@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp;, I'm Vamsi </h1>
-💫 About Me:
+ About Me:
 <br>💬 Ask me about c/c++,python<br>🌱 I’m currently learning Machine Learning<br>📫 Reach out at ymohanasuryavamsi47@gmail.com.<br>🧠 I enjoy solving Machine Learning challenges, building intelligent models, and tackling problem-solving with data!<br>⚡ Fun fact I enjoy training machines to spot patterns and solve puzzles—just like teaching a computer to think! 🤖🧩
 <p align="left">
 
