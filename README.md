@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=YerupalleVamsi&theme=dark&hide_border=true&background=0D1117&stroke=1E40AF" />
 </p>
 
