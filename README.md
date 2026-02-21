@@ -1,22 +1,48 @@
+# ⚜️ Vamsi Yerupalle
+**`Developer | Machine Learning`**
 
-
-
-<h1 align="center">Hi <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp;, I'm Vamsi </h1>
- About Me:
-<br>💬 Ask me about c/c++,python<br>🌱 I’m currently learning Machine Learning<br>📫 Reach out at ymohanasuryavamsi47@gmail.com.<br>🧠 I enjoy solving Machine Learning challenges, building intelligent models, and tackling problem-solving with data!<br>⚡ Fun fact I enjoy training machines to spot patterns and solve puzzles—just like teaching a computer to think! 🤖🧩
-<p align="left">
-
-
+-  Machine learning and algorithmic problem-solving.<br/>
+-  Data-driven work, model building, and continuous improvement.
   
+### 🌐 Profiles
+<div align="left">
+  <a href="https://www.linkedin.com/in/yerupalle-vamsi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/Vamsi_Yerupalle" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ymohanasuryavam1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ymohanasurxn72" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</div>
 
-<a href="https://www.leetcode.com/Vamsi_Yerupalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vamsi_5132k" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/vamsi5132k" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/vamsi_5132k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vamsi_5132k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yerupalle vamsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yerupalle vamsi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ymohanasurxn72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ymohanasurxn72" height="20" width="30" /></a>
-<a href="https://www.hackerrank.com/profile/ymohanasuryavam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ymohanasuryavam1" height="30" width="40" /></a>
+### 🧰 Languages and Tools
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YerupalleVamsi&theme=dark&hide_border=true&background=0D1117&stroke=1E40AF" />
 </p>
+
+### 📫 Let's Connect!
+<a href="mailto:ymohanasuryavamsi47@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ymohanasuryavamsi47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 
 
