@@ -6,16 +6,16 @@
   
 ### 🌐 Profiles
 <div align="left">
-  <a href="https://www.linkedin.com/in/yerupalle-vamsi" target="_blank">
+  <a href="https://www.linkedin.com/in/yerupalle-vamsi" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.leetcode.com/Vamsi_Yerupalle" target="_blank">
+  <a href="https://www.kaggle.com/vamsi5132k" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.leetcode.com/Vamsi_Yerupalle" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/ymohanasuryavam1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ymohanasurxn72" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/ymohanasurxn72" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </div>
