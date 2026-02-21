@@ -3,7 +3,7 @@
 
 -  Machine learning and algorithmic problem-solving.<br/>
 -  Data-driven work, model building, and continuous improvement.
-  
+
 ### 🌐 Profiles
 <div align="left">
   <a href="https://www.linkedin.com/in/yerupalle-vamsi" target="blank">
@@ -20,6 +20,7 @@
   </a>
 </div>
 
+---
 ### 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
